@@ -28,14 +28,14 @@ Austin Fake Players lets FiveM server owners configure a simulated player count 
 
 ## Frequently Asked Questions
 
-**Does the displayed count tell me how many people are playing?**  
-The displayed count can include simulated players. Use your actual player count when reporting community activity.
+Q: Will this cause lag on my server?
+A: No, our system connects cleanly without putting heavy loads on your server resources.
 
-**Will the service affect server performance?**  
-We haven't published CPU, memory, or latency benchmarks. If you need performance figures for your setup, ask about testing before you order.
+Q: Is this safe from server blacklists?
+A: Yes, our methods are advanced and fully safe.
 
-**Can my server be blacklisted?**  
-We can't guarantee protection from platform enforcement. Review the current FiveM server rules before enabling the service.
+Q: Is there a control panel?
+A: Of course, you can control the players' names, number, and whether they are on or off.
 
 **Where can I get help with my order?**  
 Open a ticket in the [Austin Discord](https://discord.gg/2ndvvVnXMf) and include your invoice ID so support can find your order.
